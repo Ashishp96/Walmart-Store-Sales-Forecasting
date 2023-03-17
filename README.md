@@ -29,7 +29,7 @@ This file is identical to train.csv, except we have withheld the weekly sales. Y
 features.csv
 </h3>
 This file contains additional data related to the store, department, and regional activity for the given dates. It contains the following fields:
-
+<br>
 Store - the store number<br>
 Date - the week<br>
 Temperature - average temperature in the region<br>
@@ -38,6 +38,7 @@ MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is r
 CPI - the consumer price index<br>
 Unemployment - the unemployment rate<br>
 IsHoliday - whether the week is a special holiday week<br>
+<br>
 For convenience, the four holidays fall within the following weeks in the dataset (not all holidays are in the data):<br>
 
 Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13<br>
